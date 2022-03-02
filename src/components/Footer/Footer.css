@@ -1,0 +1,15 @@
+.footer-decor{
+    
+    height: 200px;
+    color: white;
+    margin-left: 20px;
+    justify-content: space-around;
+    padding: 20px;
+    padding-bottom: 0;
+    
+}
+.footer{
+    background-color: cadetblue;
+    /* margin-bottom: 0; */
+    margin-bottom: auto;
+}

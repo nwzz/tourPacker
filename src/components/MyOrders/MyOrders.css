@@ -1,0 +1,20 @@
+table, th, td, tr{
+    border: 1px solid black;
+}
+.order-table{
+    
+    display:table;
+    width:100%;
+    table-layout:fixed;
+    margin-left: 370px;
+    
+    
+}
+.table-cell{
+    display:table-cell;
+    width:100%;
+    border: 1px solid black;
+    padding: 10px;
+    overflow-x: hidden;
+    
+  }

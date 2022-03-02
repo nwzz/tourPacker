@@ -1,0 +1,78 @@
+
+[
+    {
+        "id": 1,
+        "name": "Paris, France",
+        "price": "1000",
+        "description": "Paris is famous for its bustling museums and galleries, its top cuisine, its beautiful architecture, and its chic fashion. Most recognizable in the world: the Eiffel Tower, Notre-Dame, Versailles, the Louvre.",
+        "img": "https://i.ibb.co/dQG9MWJ/pic-1.jpg",
+        "duration": "3 days 4 nights"
+        
+    },
+    {
+        "id": 2,
+        "name": "Croatia in Love",
+        "price": "700",
+        "description": "Croatia is one of the safest countries in the world. The stats don't lie: Croatia is the 19th-safest country in the world! That means that Croatia is statistically safer than both the UK and the US.",
+        "img": "https://i.ibb.co/wNJ6VNm/pic-2.jpg",
+        "duration": "3 days 4 nights"
+    },
+    {
+        "id": 3,
+        "name": "Cairo, Egypt",
+        "price": "400",
+        "description": "Cairo is one of the safest cities in Egypt, mainly because it's also the most developed one. Apart and pretty theft, you won't have to worry too much about your safety.",
+        "img": "https://i.ibb.co/GQrTwzV/pic-3.jpg",
+        "duration": "3 days 4 nights"
+    },
+    {
+        "id": 4,
+        "name": "Venice, Italy",
+        "price": "1200",
+        "description": "Venice, the capital of northern Italy’s Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals – including the Grand Canal thoroughfare.",
+        "img": "https://i.ibb.co/QffLGg7/pic-4.jpg",
+        "duration": "5 days 4 nights"
+    },
+    {
+        "id": 5,
+        "name": "Berlin, Germany",
+        "price": "100",
+        "description": "Berlin German, or Berlin dialect (High German: Berliner Dialekt, Berliner Mundart, Berlinerisch or Berlinisch), is the dialect spoken in the city of Berlin as well as its surrounding metropolitan area.",
+        "img": "https://i.ibb.co/T2MYPbJ/pic-5.jpg",
+        "duration": "3 days 4 nights"
+    },
+    {
+        "id": 6,
+        "name": "Bali, Indonesia",
+        "price": "500",
+        "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali.",
+        "img": "https://i.ibb.co/0Yr3WHF/pic-7.jpg",
+        "duration": "3 days 2 nights"
+    },
+    {
+        "id": 7,
+        "name": "Male, Maldiv",
+        "price": "1000",
+        "description": "Male is a province of Maldiv and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Male.",
+        "img": "https://i.ibb.co/4K7sjKx/pic-6.jpg",
+        "duration": "8 days 7 nights"
+    },
+    {
+        "id": 8,
+        "name": "Zurich, Switzerland",
+        "price": "1500",
+        "description": "Switzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps.",
+        "img": "https://i.ibb.co/wp26pj9/pic-8.jpg",
+        "duration": "7 days 8 nights"
+    },
+    {
+        "id": 9,
+        "name": "Rome, Italy",
+        "price": "2000",
+        "description": "Rome is a mountainous Central European country Italy, home to numerous lakes, villages and the high peaks of the Alps.",
+        "img": "https://i.ibb.co/JFKY4Gw/pic-9.jpg",
+        "duration": "5 days 4 nights"
+    }
+
+    
+]
