@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useLocation, useParams } from "react-router";
+import { useHistory, useParams } from "react-router";
 import { Link } from "react-router-dom";
 import "./ServiceDetails.css";
 import { useForm } from "react-hook-form";
@@ -7,7 +7,7 @@ import useAuth from "../../hooks/useAuth";
 
 const ServiceDetails = () => {
   const { id } = useParams();
-  //const location = useLocation();
+  const history = useHistory();
   const [newService, setNewService] = useState([]);
   const { user } = useAuth();
 
@@ -35,12 +35,12 @@ const ServiceDetails = () => {
         if (data.insertedId) {
           alert("Order processed Successfully");
           reset();
-          //location.push("/");
+          history.push("/");
         }
       });
   };
 
-  const image = newService.img;
+  //const image = newService.img;
 
   return (
     <div className="mt-5 container">
