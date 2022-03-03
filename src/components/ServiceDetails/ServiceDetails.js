@@ -63,9 +63,9 @@ const ServiceDetails = () => {
               className="d-flex service-decor "
               // style={{ backgroundImage: `url(${image})` }}
             >
-              <div>
+              <div className="m-auto">
                 <img
-                  // style={{ width: "100%", height: "100%" }}
+                  style={{ width: "999px", height: "270px" }}
                   className=""
                   src={newService.img}
                   alt=""
