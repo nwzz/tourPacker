@@ -31,11 +31,11 @@ const Header = () => {
             <Nav.Link as={Link} to="/blog/">
               Blog
             </Nav.Link>
-            <Nav.Link as={Link} to="/doctors/">
-              Gallery
-            </Nav.Link>
             <Nav.Link as={Link} to="/about-us/">
               About Us
+            </Nav.Link>
+            <Nav.Link as={Link} to="/booking/newPackage">
+              DashBoard
             </Nav.Link>
           </Nav>
           <div className="d-flex justify-content-end gap-3">
